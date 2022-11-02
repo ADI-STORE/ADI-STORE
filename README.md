@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ADI-STORE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+    <img src="https://telegra.ph/file/0f010ab9524f257994109.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">LalaBOT - MD</h1>
+<p align="center">
+  <a href="https://github.com/yanz5008"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Lala+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+yanz5008;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+</p>
 
-<!---
-ADI-STORE/ADI-STORE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+ <a href="#"><img title="LalaBOT" src="https://img.shields.io/badge/Lala BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Yanz5008"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Ryan-blue.svg?style=for-the-badge&logo=github"></a>
