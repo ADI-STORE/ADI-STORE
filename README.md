@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">ARA-CHAN</h1>
 <p align="center">
-  <a href=""><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Lala+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+yanz5008;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href=""><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Lala+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+AdiOfc;Give+star+and+forks+this+Repo+:D;Follow+My+Github+:V" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
