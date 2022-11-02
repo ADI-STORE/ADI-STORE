@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- <a href="#"><img title="LalaBOT" src="https://img.shields.io/badge/ARABOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="BOT-WHATSAPP" src="https://img.shields.io/badge/ARABOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-ADIGANZ-blue.svg?style=for-the-badge&logo=github"></a>
