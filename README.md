@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">ARA-CHAN</h1>
 <p align="center">
-  <a href=""><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=HALO BANG👻🔥" alt="ʘᴗʘ">
+  <a href=""><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=HI+TOD+APA+KABAR👻🔥" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
