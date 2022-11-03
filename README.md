@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/6328bba9a90ad1b8ac946.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/60ba81851f9ccaa047966.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">ARA-CHAN</h1>
 <p align="center">
